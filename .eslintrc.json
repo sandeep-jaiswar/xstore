@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "next",
+    "prettier"
+  ],
+  "ignorePatterns": [
+    "!node_modules/",
+    "node_modules/*",
+    "*.types.ts"
+  ]
+}
